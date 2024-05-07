@@ -18,9 +18,7 @@ body {
   border-radius: 0.2rem;
 }
 #counter {
-  color: var(--mainGreen);
   font-size: 10rem;
-  color: var(--mainBlack);
 }
 .prevBtn,
 .nextBtn {
@@ -33,4 +31,16 @@ body {
 }
 .nextBtn:hover {
   background: var(--lightBlue);
+}
+
+.red {
+  color: red;
+}
+
+.grey {
+  color: grey;
+}
+
+.green {
+  color: greenyellow;
 }
